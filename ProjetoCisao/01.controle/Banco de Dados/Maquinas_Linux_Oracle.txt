@@ -1,0 +1,8 @@
+brspdtc0017c - 10.100.0.26
+brspdtc0018c - 10.100.0.27
+
+User: root
+Pass: qwerty123@
+
+User: oracle
+Pass: oracle
